@@ -1,0 +1,46 @@
+
+j	java:S106X"9Replace this use of System.out or System.err by a logger.(¤ù8ªéÄ‹•/H”RMAJORZ
+CODE_SMELL
+k	java:S106O"9Replace this use of System.out or System.err by a logger.(¥«Çë8ªéÄ‹•/H•RMAJORZ
+CODE_SMELL
+…
+java:S11923"ODefine a constant instead of duplicating this literal "DNA strand is " 6 times.(¥«Çë8ªéÄ‹•/H–RCRITICALZ
+CODE_SMELL
+~
+java:S11925"IDefine a constant instead of duplicating this literal "Gene is " 6 times.(¤ù8ªéÄ‹•/H—RCRITICALZ
+CODE_SMELL
+k	java:S106V"9Replace this use of System.out or System.err by a logger.(¥«Çë8ªéÄ‹•/H˜RMAJORZ
+CODE_SMELL
+k	java:S106A"9Replace this use of System.out or System.err by a logger.(¥«Çë8ªéÄ‹•/H™RMAJORZ
+CODE_SMELL
+j	java:S1065"9Replace this use of System.out or System.err by a logger.(¤ù8ªéÄ‹•/HšRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH›RINFOZ
+CODE_SMELL
+k	java:S106H"9Replace this use of System.out or System.err by a logger.(¥«Çë8÷„±ş”/HœRMAJORZ
+CODE_SMELL
+k	java:S1063"9Replace this use of System.out or System.err by a logger.(¥«Çë8ªéÄ‹•/HRMAJORZ
+CODE_SMELL
+j	java:S106<"9Replace this use of System.out or System.err by a logger.(¤ù8÷„±ş”/HRMAJORZ
+CODE_SMELL
+^
+java:S1172"&Remove these unused method parameters.(‚î·ûÿÿÿÿ8÷„±ş”/HŸRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H RMINORZ
+CODE_SMELL
+j	java:S106Q"9Replace this use of System.out or System.err by a logger.(¤ù8ªéÄ‹•/H¡RMAJORZ
+CODE_SMELL
+s	java:S125-"<This block of commented-out lines of code should be removed.(’•îæıÿÿÿÿ8¨şëŒ•/H¢RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÜ“‹şÿÿÿÿ8ªéÄ‹•/H£RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(åÿ¶Öıÿÿÿÿ8÷„±ş”/H¤RMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(¥«Çë8ªéÄ‹•/H¥RMAJORZ
+CODE_SMELL
+j	java:S106C"9Replace this use of System.out or System.err by a logger.(¤ù8ªéÄ‹•/H¦RMAJORZ
+CODE_SMELL
+j	java:S106J"9Replace this use of System.out or System.err by a logger.(¤ù8ªéÄ‹•/H§RMAJORZ
+CODE_SMELL

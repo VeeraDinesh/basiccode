@@ -1,0 +1,19 @@
+
+j	java:S106""9Replace this use of System.out or System.err by a logger.(¾ë:8•Ïé/H‚RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(½‚§·8•Ïé/HƒRMAJORZ
+CODE_SMELL
+c
+java:S1172"+Remove this unused method parameter "year".(¢ÍÜúÿÿÿÿ8“ÿé/H„RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(´åæ¬üÿÿÿÿ8“ÿé/H…RMAJORZ
+CODE_SMELL
+`
+java:S1125"(Remove the literal "true" boolean value.(ëäÈ¯ùÿÿÿÿ8•Ïé/H†RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H‡RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHˆRINFOZ
+CODE_SMELL

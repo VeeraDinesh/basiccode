@@ -1,0 +1,30 @@
+
+n	java:S125<"<This block of commented-out lines of code should be removed.(Ü‰Ò…8ãÂ…øš/H³	RMAJORZ
+CODE_SMELL
+p	java:S106S"9Replace this use of System.out or System.err by a logger.(û©ò€üÿÿÿÿ8ç£ï÷š/H´	RMAJORZ
+CODE_SMELL
+s	java:S125-"<This block of commented-out lines of code should be removed.(öÉˆøÿÿÿÿÿ8ç£ï÷š/Hµ	RMAJORZ
+CODE_SMELL
+k	java:S106^"9Replace this use of System.out or System.err by a logger.(¹‚ª8£Ö“øš/H¶	RMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(¬°Íå8Œðò÷š/H·	RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH¸	RINFOZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¹	RMINORZ
+CODE_SMELL
+Š	java:S135M"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ78Åã²øš/Hº	RMINORZ
+CODE_SMELL
+s	java:S125*"<This block of commented-out lines of code should be removed.(¡µ°Òúÿÿÿÿ8ç£ï÷š/H»	RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(•³‹›8ç£ï÷š/H¼	RMAJORZ
+CODE_SMELL
+n	java:S125("<This block of commented-out lines of code should be removed.(Å²ƒˆ8ç£ï÷š/H½	RMAJORZ
+CODE_SMELL
+q
+java:S1854T">Remove this useless assignment to local variable "startIndex".(Œ“¥â8Åã²øš/H¾	RMAJORZ
+CODE_SMELL
+p	java:S106Z"9Replace this use of System.out or System.err by a logger.(…®­Îýÿÿÿÿ8£Ö“øš/H¿	RMAJORZ
+CODE_SMELL

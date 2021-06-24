@@ -1,0 +1,43 @@
+
+c
+java:S1481`"0Remove this unused "largestFile" local variable.(ÙŠë8¹®Ñ¶”/HİRMINORZ
+CODE_SMELL
+Y
+java:S1481""&Remove this unused "p" local variable.(å÷¤ô8õ–¶”/HòRMINORZ
+CODE_SMELL
+l	java:S106²"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8õ–¶”/HÔRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(ıÄËÑ8õ–¶”/HĞRMAJORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(­§Î»ûÿÿÿÿ8õ–¶”/HÕRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Şõ–ò8¥ªÑ·”/HçRMAJORZ
+CODE_SMELL
+q	java:S106–"9Replace this use of System.out or System.err by a logger.(Èï¾€şÿÿÿÿ8øõ¶”/HàRMAJORZ
+CODE_SMELL
+q	java:S106¨"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8õ–¶”/HÓRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HËRMINORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(”¤ú×øÿÿÿÿ8¹®Ñ¶”/HÜRMAJORZ
+CODE_SMELL
+l	java:S106Œ"9Replace this use of System.out or System.err by a logger.(àûõ¤8õ–¶”/H×RMAJORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(›İ¤´üÿÿÿÿ8õ–¶”/HØRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(É¤Á¥øÿÿÿÿ8¥ªÑ·”/HèRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(¨…¡»8õ–¶”/HÖRMAJORZ
+CODE_SMELL
+q	java:S106«"9Replace this use of System.out or System.err by a logger.(¹Ã‹«ûÿÿÿÿ8õ–¶”/HÚRMAJORZ
+CODE_SMELL
+”
+java:S14886"aImmediately return this expression instead of assigning it to the temporary variable "avgLength".(İÍÙÀ8õ–¶”/HÎRMINORZ
+CODE_SMELL
+v
+java:S2259"IA "NullPointerException" could be thrown; "largestFile" is nullable here.( ÓŠŠ8ìß÷¶”/HäRMAJORZBUG
+n	java:S125)"<This block of commented-out lines of code should be removed.(™¾ˆ›8ÎŞÜ·”/HìRMAJORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(¥ğıå8Õèâ·”/HõRMAJORZ
+CODE_SMELL

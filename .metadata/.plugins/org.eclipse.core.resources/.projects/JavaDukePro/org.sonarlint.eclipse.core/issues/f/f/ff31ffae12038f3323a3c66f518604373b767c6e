@@ -1,0 +1,41 @@
+
+F
+java:S1220""Move this file to a named package.HáRMINORZ
+CODE_SMELL
+s
+java:S22594"BA "NullPointerException" could be thrown; "temp" is nullable here.(¢Ïäıÿÿÿÿ8†ó§”/HãRMAJORZBUG
+`
+java:S1172"(Remove this unused method parameter "s".(­´®Æùÿÿÿÿ8†ó§”/HäRMAJORZ
+CODE_SMELL
+l
+java:S3400"9Remove this method and declare a constant for this value.(”·³›8†ó§”/HåRMINORZ
+CODE_SMELL
+`
+java:S1172"(Remove this unused method parameter "s".(ôÍá»üÿÿÿÿ8†ó§”/HæRMAJORZ
+CODE_SMELL
+k
+java:S3400"9Remove this method and declare a constant for this value.(¡ğ¬8†ó§”/HçRMINORZ
+CODE_SMELL
+Z
+java:S1172""(Remove this unused method parameter "s".(Ãââv8†ó§”/HèRMAJORZ
+CODE_SMELL
+k
+java:S3400$"9Remove this method and declare a constant for this value.(¡ğ¬8†ó§”/HéRMINORZ
+CODE_SMELL
+[
+java:S1172'"(Remove this unused method parameter "s".(ˆĞ®‰8†ó§”/HêRMAJORZ
+CODE_SMELL
+k
+java:S3400)"9Remove this method and declare a constant for this value.(¡ğ¬8†ó§”/HëRMINORZ
+CODE_SMELL
+k
+java:S3400."9Remove this method and declare a constant for this value.(¡ğ¬8†ó§”/HìRMINORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(àûõ¤8†ó§”/HíRMAJORZ
+CODE_SMELL
+p	java:S106M"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8†ó§”/HîRMAJORZ
+CODE_SMELL
+p	java:S106P"9Replace this use of System.out or System.err by a logger.(¹Ã‹«ûÿÿÿÿ8†ó§”/HïRMAJORZ
+CODE_SMELL
+k	java:S106W"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8†ó§”/HğRMAJORZ
+CODE_SMELL

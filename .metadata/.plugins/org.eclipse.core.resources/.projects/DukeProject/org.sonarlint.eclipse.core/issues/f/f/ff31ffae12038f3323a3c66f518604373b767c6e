@@ -1,0 +1,37 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(”Æ©úH«RMAJORZ
+CODE_SMELL
+p	java:S106g"9Replace this use of System.out or System.err by a logger.(›İ¤´üÿÿÿÿ8ÖãÌµ”/H»RMAJORZ
+CODE_SMELL
+p	java:S106}"9Replace this use of System.out or System.err by a logger.(¹Ã‹«ûÿÿÿÿ8ßù¶”/HÇRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÉÄ48°°âµ”/H½RMAJORZ
+CODE_SMELL
+i	java:S106h"9Replace this use of System.out or System.err by a logger.(­§Î»ûÿÿÿÿHªRMAJORZ
+CODE_SMELL
+k	java:S106f"9Replace this use of System.out or System.err by a logger.(¨…¡»8ÅéÙµ”/H¼RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+d
+java:S3400S"9Remove this method and declare a constant for this value.(¡ğ¬H¦RMINORZ
+CODE_SMELL
+k	java:S106d"9Replace this use of System.out or System.err by a logger.(àûõ¤8ÖãÌµ”/HºRMAJORZ
+CODE_SMELL
+i	java:S106z"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+”
+java:S1488,"aImmediately return this expression instead of assigning it to the temporary variable "avgLength".(İÍÙÀ8õÎŠµ”/H¹RMINORZ
+CODE_SMELL
+Y
+java:S1481 "&Remove this unused "p" local variable.(å÷¤ô8óÒô´”/H¸RMINORZ
+CODE_SMELL
+d	java:S106e"9Replace this use of System.out or System.err by a logger.(ıÄËÑH©RMAJORZ
+CODE_SMELL
+l
+java:S2259Y"BA "NullPointerException" could be thrown; "temp" is nullable here.(¢ÏäıÿÿÿÿHRMAJORZBUG
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(¼öŠ‰8îÀúµ”/HÄRMAJORZ
+CODE_SMELL
+l	java:S106„"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8’Òƒ¶”/HÈRMAJORZ
+CODE_SMELL

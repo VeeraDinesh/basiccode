@@ -1,0 +1,94 @@
+import java.io.File;
+
+import org.apache.commons.csv.CSVParser;
+import org.apache.commons.csv.CSVRecord;
+
+import edu.duke.DirectoryResource;
+import edu.duke.FileResource;
+
+public class CSVTemparature {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		CSVTemparature c1 = new CSVTemparature();
+		c1.testColdestHourInFile();
+		c1.testFileWithColdestTemperature();
+ 
+	}
+//////////////////////////   coldestHourInFile ///////////////////
+	public CSVRecord coldestHourInFile(CSVParser parser)
+	{
+		CSVRecord smallestSoFar = null;
+		
+		for(CSVRecord currentRow : parser)
+		{
+			if(smallestSoFar == null)
+			{
+				smallestSoFar = currentRow;
+			}
+			else
+			{
+				double currentTemp = Double.parseDouble(currentRow.get("TemperatureF"));
+				double smallestTemp = Double.parseDouble(smallestSoFar.get("TemperatureF"));
+				if(currentTemp < smallestTemp)
+				{
+					smallestSoFar = currentRow;
+				}
+
+			}
+			
+		}
+		return smallestSoFar;
+	}
+	public void testColdestHourInFile()
+	{
+		FileResource fr = new FileResource();
+		CSVRecord smallest = coldestHourInFile(fr.getCSVParser());
+		System.out.println("Coldest  temperature  was "+smallest.get("TemperatureF")+" at " +smallest.get("TimeEST"));
+	}
+	
+	///////////////////////   fileWithColdestTemperature   //////////
+	
+	public String fileWithColdestTemperature()
+	{
+		CSVRecord smallestSoFar = null;
+		DirectoryResource dr = new DirectoryResource();
+		
+		String coldestFile = "";
+		double smallest = 99.9;
+		for(File f : dr.selectedFiles())
+		{
+			FileResource fr = new FileResource(f);
+			CSVRecord currentRow = coldestHourInFile(fr.getCSVParser());
+			if(smallestSoFar == null)
+			{
+				smallestSoFar = currentRow;
+			}
+			else
+			{
+				double currentTemp = Double.parseDouble(currentRow.get("TemperatureF"));
+				double smallestTemp = Double.parseDouble(smallestSoFar.get("TemperatureF"));
+				if(currentTemp < smallestTemp)
+				{
+					smallestSoFar = currentRow;
+				}
+
+			}
+			 //if smallest returned temp is lower than smallest, get the filename
+			
+			if(Double.parseDouble(smallestSoFar.get("TemperatureF")) < smallest)
+			{
+				coldestFile = f.getPath();
+			}
+			
+		}
+		return coldestFile;
+	}
+	
+	public void testFileWithColdestTemperature()
+	{
+	  CSVRecord smallest = fileWithColdestTemperature();
+	  System.out.println("Coldest Temparature was"+ smallest.get("TemperatureF")+ "at "+ smallest.get("DateUTC"));
+	}
+	
+}

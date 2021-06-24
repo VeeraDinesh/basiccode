@@ -1,0 +1,17 @@
+
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(‡»„ý8¬²Ô÷š/HÀ	RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(‡®êûÿÿÿÿ8ÏäÙ÷š/HÁ	RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(ÑÐß8¬²Ô÷š/HÂ	RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÃ	RINFOZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÄ	RMINORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(þÛ×—øÿÿÿÿ8¬²Ô÷š/HÅ	RMAJORZ
+CODE_SMELL
+k	java:S1063"9Replace this use of System.out or System.err by a logger.(ÑÐß8¬²Ô÷š/HÆ	RMAJORZ
+CODE_SMELL

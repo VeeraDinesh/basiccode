@@ -1,0 +1,36 @@
+
+p	java:S106A"9Replace this use of System.out or System.err by a logger.(›®øÀúÿÿÿÿ8ÿ‰èò›/HœRMAJORZ
+CODE_SMELL
+n	java:S125]"<This block of commented-out lines of code should be removed.(Ïçý„8ÝÊ‰ß›/HRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ÆÜÊ§ÿÿÿÿÿ8‘¬¾Þ›/HžRMAJORZ
+CODE_SMELL
+p
+java:S1854G"8Remove this useless assignment to local variable "dna1".(÷å÷Ûúÿÿÿÿ8ò— ò›/HŸRMAJORZ
+CODE_SMELL
+p	java:S106V"9Replace this use of System.out or System.err by a logger.(Ô¼ùÓýÿÿÿÿ8‘¬¾Þ›/H RMAJORZ
+CODE_SMELL
+p	java:S106v"9Replace this use of System.out or System.err by a logger.(ÂÑþ€ÿÿÿÿÿ8Ž“í›/H¡RMAJORZ
+CODE_SMELL
+p	java:S106D"9Replace this use of System.out or System.err by a logger.(ÝÒ½Šùÿÿÿÿ8‘¬¾Þ›/H¢RMAJORZ
+CODE_SMELL
+a
+java:S1481G")Remove this unused "dna1" local variable.(÷å÷Ûúÿÿÿÿ8ò— ò›/H£RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¤RMINORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(úþÌñ8ÝÊ‰ß›/H¥RMAJORZ
+CODE_SMELL
+p	java:S106i"9Replace this use of System.out or System.err by a logger.(Ô¼ùÓýÿÿÿÿ8‘¬¾Þ›/H¦RMAJORZ
+CODE_SMELL
+p	java:S106X"9Replace this use of System.out or System.err by a logger.(åÿ¶Öýÿÿÿÿ8ÿ‰èò›/H§RMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(ÖÅ¥8‘¬¾Þ›/H¨RMAJORZ
+CODE_SMELL
+k	java:S106r"9Replace this use of System.out or System.err by a logger.(‚ÀÞ½8ÚÏœí›/H©RMAJORZ
+CODE_SMELL
+n	java:S125H"<This block of commented-out lines of code should be removed.(½áõâ8ò— ò›/HªRMAJORZ
+CODE_SMELL
+k	java:S106?"9Replace this use of System.out or System.err by a logger.(÷•ËŒ8‘¬¾Þ›/H«RMAJORZ
+CODE_SMELL

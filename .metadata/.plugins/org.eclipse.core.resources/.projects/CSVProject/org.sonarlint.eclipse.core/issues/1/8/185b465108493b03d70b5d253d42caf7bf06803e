@@ -1,0 +1,47 @@
+
+\
+java:S1659¢"(Declare "currentHum" on a separate line.(ñ™×ó8¶¬®’/H²RMINORZ
+CODE_SMELL
+l	java:S106€"9Replace this use of System.out or System.err by a logger.(Àşè³8ñÆğœ/H³RMAJORZ
+CODE_SMELL
+l	java:S106š"9Replace this use of System.out or System.err by a logger.(ŒË˜¸8ß„“ñœ/H´RMAJORZ
+CODE_SMELL
+f
+java:S1199¬"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¶¬®’/HµRMINORZ
+CODE_SMELL
+p	java:S106b"9Replace this use of System.out or System.err by a logger.(®ˆäøÿÿÿÿ8£‚ñœ/H¶RMAJORZ
+CODE_SMELL
+a	java:S108¬")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8¶¬®’/H·RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¸RMINORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(€ÔŞÜ8‹‡¢‘/H¹RMAJORZ
+CODE_SMELL
+q	java:S106µ"9Replace this use of System.out or System.err by a logger.(š¤§Èûÿÿÿÿ8®ê¹’/HºRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(°ŒÙ»8Æƒ¤‘/H»RMAJORZ
+CODE_SMELL
+_
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒ‹ö/H¼RMINORZVULNERABILITY
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH½RINFOZ
+CODE_SMELL
+k	java:S106`"9Replace this use of System.out or System.err by a logger.(ˆÕ²¢8ú²Ş/H¾RMAJORZ
+CODE_SMELL
+
+java:S1192"IDefine a constant instead of duplicating this literal "Humidity" 5 times.(®Õ¬ˆ8ƒ‹ö/H¿RCRITICALZ
+CODE_SMELL
+k	java:S106f"9Replace this use of System.out or System.err by a logger.(¦ğõÕ8„ùƒñœ/HÀRMAJORZ
+CODE_SMELL
+~
+java:S1192f"HDefine a constant instead of duplicating this literal "DateUTC" 3 times.(¦ğõÕ8®ê¹’/HÁRCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192!"MDefine a constant instead of duplicating this literal "TemperatureF" 8 times.(ù‰è‰8ï´øïœ/HÂRCRITICALZ
+CODE_SMELL
+k	java:S106]"9Replace this use of System.out or System.err by a logger.(Îæ¯Ã8À‘áïœ/HÃRMAJORZ
+CODE_SMELL
+]
+java:S1659w"%Declare "lowcurr" on a separate line.(õî¡Èüÿÿÿÿ8ûòˆ/HÄRMINORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¬¨øÊþÿÿÿÿ8ÿøÝŽ•/H¨RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH©RINFOZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HªRMINORZ
+CODE_SMELL
+n	java:S1251"<This block of commented-out lines of code should be removed.(ªË×Ú8þ»£•/H«RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÉÉÁ8¿Š†•/H¬RMAJORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(¹—êœ8ÏÐŒŽ•/H­RMAJORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(Þ•Üú8ˆë®•/H®RMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(åòœ–øÿÿÿÿ8ÏÐŒŽ•/H¯RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§©ïÅûÿÿÿÿ8ÿøÝŽ•/H°RMAJORZ
+CODE_SMELL
+k	java:S1069"9Replace this use of System.out or System.err by a logger.(Þ•Üú8Ã¬•/H±RMAJORZ
+CODE_SMELL

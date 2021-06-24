@@ -1,0 +1,23 @@
+import org.apache.commons.csv.CSVParser;
+import org.apache.commons.csv.CSVRecord;
+
+public class AverageTem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+public double  averageTemperatureInFile(CSVParser parser)
+{
+	double avgTemp = 0;
+	int count = 0;
+	for(CSVRecord p : parser)
+	{
+		count++;
+		avgTemp+=Double.parseDouble(p.get("TemperatueF"));
+	}
+	
+	return (avgTemp/count);
+	
+}
+}

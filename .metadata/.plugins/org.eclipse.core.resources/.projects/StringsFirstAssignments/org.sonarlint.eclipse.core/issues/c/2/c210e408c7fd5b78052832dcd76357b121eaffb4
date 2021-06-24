@@ -1,0 +1,41 @@
+
+~
+java:S1192"IDefine a constant instead of duplicating this literal "Gene is " 6 times.(¤ù8¹½†ü”/H²RCRITICALZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(¥«Çë8¹½†ü”/H³RMAJORZ
+CODE_SMELL
+j	java:S106'"9Replace this use of System.out or System.err by a logger.(¤ù8¹½†ü”/H´RMAJORZ
+CODE_SMELL
+j	java:S1061"9Replace this use of System.out or System.err by a logger.(¤ù8¬ãÒû”/HµRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¶RINFOZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¤ù8©’‘ü”/H·RMAJORZ
+CODE_SMELL
+j	java:S106""9Replace this use of System.out or System.err by a logger.(¤ù8¹½†ü”/H¸RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¹RMINORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(¥«Çë8©’‘ü”/HºRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(¥«Çë8½á›ü”/H»RMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(¥«Çë8¬ãÒû”/H¼RMAJORZ
+CODE_SMELL
+j	java:S1066"9Replace this use of System.out or System.err by a logger.(¤ù8©’‘ü”/H½RMAJORZ
+CODE_SMELL
+…
+java:S1192"ODefine a constant instead of duplicating this literal "DNA strand is " 6 times.(¥«Çë8¹½†ü”/H¾RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÜ“‹şÿÿÿÿ8ŠŞƒû”/H¿RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(åÿ¶Öıÿÿÿÿ8ŠŞƒû”/HÀRMAJORZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(¥«Çë8¹½†ü”/HÁRMAJORZ
+CODE_SMELL
+j	java:S106,"9Replace this use of System.out or System.err by a logger.(¤ù8½á›ü”/HÂRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¥«Çë8©’‘ü”/HÃRMAJORZ
+CODE_SMELL

@@ -1,0 +1,14 @@
+
+F
+java:S1220""Move this file to a named package.H„RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH…RINFOZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8³õ„Ÿ›/H†RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¬œ«+8³õ„Ÿ›/H‡RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(•ò·8³õ„Ÿ›/HˆRMAJORZ
+CODE_SMELL

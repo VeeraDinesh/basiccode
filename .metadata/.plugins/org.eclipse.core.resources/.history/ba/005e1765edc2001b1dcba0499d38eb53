@@ -1,0 +1,41 @@
+import edu.duke.*;
+import org.apache.commons.csv.*;
+public class CSVParser1 {
+
+	public static void main(String[] args) {
+		CSVParser1 c1 = new CSVParser1();
+		c1.countryInfo(parser, country);
+	}
+
+	
+	
+	public void Tester()
+	{
+		FileResource fr = new FileResource();
+		CSVParser parser = fr.getCSVParser();
+		for(CSVRecord record : parser)
+		{
+			
+		}
+		
+	}
+	
+	public void countryInfo(CSVParser parser,String country)
+	{
+		boolean found = false;
+		for(CSVRecord record1 : parser)
+		{
+			String export = record1.get("Exports");
+			if(export.contains(country))
+			{
+				String value = record1.get("Value");
+				System.out.println(country + ":" +record1.get("Exports") +": "+value);
+			found = true;
+			}
+			else
+			{
+				System.out.println("NOT FOUND");
+			}
+		}
+	}
+}

@@ -1,0 +1,40 @@
+
+F
+java:S1220""Move this file to a named package.HŠRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(º¸Ëş8ûÙôÆœ/H‹RMAJORZ
+CODE_SMELL
+ƒ	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à†Ñ8£ÿÆœ/HŒRMINORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(×’¤ú8˜¼ÔÆœ/HRMAJORZ
+CODE_SMELL
+d	java:S106."9Replace this use of System.out or System.err by a logger.(‡î¿HRMAJORZ
+CODE_SMELL
+~
+java:S1192'"HDefine a constant instead of duplicating this literal "Exports" 3 times.(×’¤ú8ÃÛìÅœ/HRCRITICALZ
+CODE_SMELL
+~
+java:S1192""HDefine a constant instead of duplicating this literal "Country" 3 times.(à†Ñ8©øûÆœ/HRCRITICALZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾É­ŒH‘RMINORZ
+CODE_SMELL
+p	java:S106M"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8£ôŠÇœ/H’RMAJORZ
+CODE_SMELL
+p	java:S106_"9Replace this use of System.out or System.err by a logger.(˜‘ªûÿÿÿÿ8Œë“Çœ/H“RMAJORZ
+CODE_SMELL
+s	java:S125X"<This block of commented-out lines of code should be removed.(õ’¥ìÿÿÿÿÿ8òİÚÆœ/H”RMAJORZ
+CODE_SMELL
+p	java:S106P"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ò×Çœ/H•RMAJORZ
+CODE_SMELL
+k	java:S106>"9Replace this use of System.out or System.err by a logger.(øÄ—8¯‰ŠÇœ/H–RMAJORZ
+CODE_SMELL
+i	java:S106&"9Replace this use of System.out or System.err by a logger.(Ãš¬şûÿÿÿÿH—RMAJORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(ÑêËúÿÿÿÿ8•ï­Æœ/H˜RMAJORZ
+CODE_SMELL
+p	java:S106N"9Replace this use of System.out or System.err by a logger.(äĞÓ¡ûÿÿÿÿ8”ƒ“Çœ/H™RMAJORZ
+CODE_SMELL
+k	java:S106W"9Replace this use of System.out or System.err by a logger.(ÌïÛµ8±¶Çœ/HšRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ÃÛìÅœ/H›RMAJORZ
+CODE_SMELL

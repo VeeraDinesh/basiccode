@@ -1,0 +1,43 @@
+
+i	java:S106L"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿH×	RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HØ	RMINORZ
+CODE_SMELL
+l
+java:S22593"BA "NullPointerException" could be thrown; "temp" is nullable here.(¢ÏäıÿÿÿÿHÙ	RMAJORZBUG
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úº´HÚ	RMINORZ
+CODE_SMELL
+S
+java:S1172!"(Remove this unused method parameter "s".(ÃââvHÛ	RMAJORZ
+CODE_SMELL
+Y
+java:S1172"(Remove this unused method parameter "s".(­´®ÆùÿÿÿÿHÜ	RMAJORZ
+CODE_SMELL
+d	java:S106V"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”Hİ	RMAJORZ
+CODE_SMELL
+d
+java:S3400-"9Remove this method and declare a constant for this value.(¡ğ¬HŞ	RMINORZ
+CODE_SMELL
+i	java:S106O"9Replace this use of System.out or System.err by a logger.(¹Ã‹«ûÿÿÿÿHß	RMAJORZ
+CODE_SMELL
+d
+java:S3400("9Remove this method and declare a constant for this value.(¡ğ¬Hà	RMINORZ
+CODE_SMELL
+d
+java:S3400#"9Remove this method and declare a constant for this value.(¡ğ¬Há	RMINORZ
+CODE_SMELL
+Y
+java:S1172"(Remove this unused method parameter "s".(ôÍá»üÿÿÿÿHâ	RMAJORZ
+CODE_SMELL
+T
+java:S1172&"(Remove this unused method parameter "s".(ˆĞ®‰Hã	RMAJORZ
+CODE_SMELL
+e
+java:S3400"9Remove this method and declare a constant for this value.(”·³›Hä	RMINORZ
+CODE_SMELL
+d
+java:S3400"9Remove this method and declare a constant for this value.(¡ğ¬Hå	RMINORZ
+CODE_SMELL
+d	java:S106:"9Replace this use of System.out or System.err by a logger.(àûõ¤Hæ	RMAJORZ
+CODE_SMELL

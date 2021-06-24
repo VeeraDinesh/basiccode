@@ -1,0 +1,118 @@
+
+†	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÇŠİşÿÿÿÿ8‹çûé/HèRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ìş©À8ô”´/HRMAJORZ
+CODE_SMELL
+q	java:S106–"9Replace this use of System.out or System.err by a logger.(Æ­úòøÿÿÿÿ8¥Ë·ƒ/H£RMAJORZ
+CODE_SMELL
+q	java:S106‹"9Replace this use of System.out or System.err by a logger.(Í•”úÿÿÿÿ8ÙÛ×/HñRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHäRINFOZ
+CODE_SMELL
+j	java:S106^"9Replace this use of System.out or System.err by a logger.(åó¤|8ÕÙüŒ/H¸RMAJORZ
+CODE_SMELL
+q	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÅÁèÀùÿÿÿÿ8É‹ñé/HçRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(¿©’Ïøÿÿÿÿ8øãñè/HşRMAJORZ
+CODE_SMELL
+`
+java:S1125T"(Remove the literal "true" boolean value.(îÔÊÿüÿÿÿÿ8áıáç/HóRMINORZ
+CODE_SMELL
+s	java:S125&"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8®Ø×Ø/HêRMAJORZ
+CODE_SMELL
+n	java:S125Ô"<This block of commented-out lines of code should be removed.(èİü8»µµ/H’RMAJORZ
+CODE_SMELL
+s	java:S125e"<This block of commented-out lines of code should be removed.(´åæ¬üÿÿÿÿ8Ç–Àç/HüRMAJORZ
+CODE_SMELL
+s
+java:S3518…"CMake sure this expression can't be zero before doing this division.(®ŞÛÑ8õÿ‹‚/H÷RCRITICALZBUG
+†	java:S100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÛÑôúÿÿÿÿ8ô×†/HçRMINORZ
+CODE_SMELL
+q	java:S106ì"9Replace this use of System.out or System.err by a logger.(«§ŸÎøÿÿÿÿ8œ•š‚/H„RMAJORZ
+CODE_SMELL
+s	java:S125D"<This block of commented-out lines of code should be removed.(´åæ¬üÿÿÿÿ8”Äıÿ/H÷RMAJORZ
+CODE_SMELL
+l	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ÜÄ£À8´›‹ê/HøRMAJORZ
+CODE_SMELL
+
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ïøì§ùÿÿÿÿ8™àØ€/HàRCRITICALZ
+CODE_SMELL
+s
+java:S1854!";Remove this useless assignment to local variable "numBorn".(¬ğğ©üÿÿÿÿ8®Ø×Ø/HÿRMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(“ñ¢8Ô–šç/HğRMAJORZ
+CODE_SMELL
+q	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¢Ë¶ÿÿÿÿÿ8€†óâ/HûRMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(íÉ²úÿÿÿÿ8ªŒê/HôRMAJORZ
+CODE_SMELL
+o	java:S125ƒ"<This block of commented-out lines of code should be removed.(†¬š–8–óö/HãRMAJORZ
+CODE_SMELL
+†	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚îüúÿÿÿÿ8Ïğªƒ/HRMINORZ
+CODE_SMELL
+“
+java:S1488…"_Immediately return this expression instead of assigning it to the temporary variable "avgRank".(®ŞÛÑ8õÿ‹‚/HøRMINORZ
+CODE_SMELL
+	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë°œË8È¾˜ç/HıRMINORZ
+CODE_SMELL
+[
+java:S1481±"'Remove this unused "dr" local variable.(ó¦Ä8Êš°/HÆRMINORZ
+CODE_SMELL
+l
+java:S1854r"9Remove this useless assignment to local variable "found".(·”íŒ8ü¯şç/HòRMAJORZ
+CODE_SMELL
+[
+java:S1125y"(Remove the literal "true" boolean value.(é§Š8Ã°÷æ/HæRMINORZ
+CODE_SMELL
+a
+java:S1481Œ"-Remove this unused "numBorn2" local variable.(ïœ³ï8¢Ğ§/HÄRMINORZ
+CODE_SMELL
+]
+java:S1172A"+Remove this unused method parameter "year".(“áÈ`8”Äıÿ/HöRMAJORZ
+CODE_SMELL
+`
+java:S1659+"(Declare "totalGirls" on a separate line.(¦€Èıüÿÿÿÿ8»¨ñâ/HïRMINORZ
+CODE_SMELL
+j
+java:S1854±"6Remove this useless assignment to local variable "dr".(ó¦Ä8Êš°/HÅRMAJORZ
+CODE_SMELL
+d
+java:S1172®"+Remove this unused method parameter "year".(”°èıÿÿÿÿ8»„²/HËRMAJORZ
+CODE_SMELL
+_
+java:S1659+"'Declare "totalBoys" on a separate line.(¦€Èıüÿÿÿÿ8»¨ñâ/H€RMINORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ÜÂ¯‘ùÿÿÿÿ8–øŒ/HµRMAJORZ
+CODE_SMELL
+q	java:S106‰"9Replace this use of System.out or System.err by a logger.(Ùåßçüÿÿÿÿ8óîŒ/H²RMAJORZ
+CODE_SMELL
+m	java:S125""<This block of commented-out lines of code should be removed.(ÚØÕ"8Ûº¯Ø/HùRMAJORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î½Îùÿÿÿÿ8è»ˆã/HåRMINORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(¥¿½Èÿÿÿÿÿ8òíÉ€/HÜRMAJORZ
+CODE_SMELL
+d
+java:S1481!",Remove this unused "numBorn" local variable.(¬ğğ©üÿÿÿÿ8®Ø×Ø/HéRMINORZ
+CODE_SMELL
+n	java:S125™"<This block of commented-out lines of code should be removed.(èİü8»µµ/H‘RMAJORZ
+CODE_SMELL
+„	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÿŒ8Ïğªƒ/HRMINORZ
+CODE_SMELL
+l	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÍÓ”·8Òã¡æ/HëRMAJORZ
+CODE_SMELL
+s	java:S125l"<This block of commented-out lines of code should be removed.(´åæ¬üÿÿÿÿ8ú“şÿ/HûRMAJORZ
+CODE_SMELL
+p
+java:S2583y"DChange this condition so that it does not always evaluate to "false"(é§Š8ü¯şç/HõRMAJORZBUG
+q	java:S106”"9Replace this use of System.out or System.err by a logger.(ñçïşÿÿÿÿ8ö¸Ôâ/HíRMAJORZ
+CODE_SMELL
+p
+java:S3518ç";Make sure "count" can't be zero before doing this division.(²ˆ¿ñüÿÿÿÿ8¼½€/HæRCRITICALZBUG
+c
+java:S1172d"+Remove this unused method parameter "year".(¢ÍÜúÿÿÿÿ8ú“şÿ/HúRMAJORZ
+CODE_SMELL

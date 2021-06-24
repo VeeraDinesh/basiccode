@@ -1,0 +1,79 @@
+
+z
+java:S3027ִ"FPut single-quotes around 'C' to use the faster "indexOf(char)" method.(®»ֹ¢8הששע›/H‘	RMAJORZ
+CODE_SMELL
+l	java:S106ח"9Replace this use of System.out or System.err by a logger.(§ש² 8הששע›/H’	RMAJORZ
+CODE_SMELL
+l	java:S106ץ"9Replace this use of System.out or System.err by a logger.(ֲ״Ùת8הששע›/H“	RMAJORZ
+CODE_SMELL
+l	java:S106³"9Replace this use of System.out or System.err by a logger.(ֽÝ•ױ8הששע›/H”	RMAJORZ
+CODE_SMELL
+z
+java:S3027׳"FPut single-quotes around 'G' to use the faster "indexOf(char)" method.(תƒח“8הששע›/H•	RMAJORZ
+CODE_SMELL
+€	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ב×ב8הששע›/H–	RMINORZ
+CODE_SMELL
+
+java:S3027ױ"FPut single-quotes around 'G' to use the faster "indexOf(char)" method.(¢±שÿÿÿÿ8הששע›/H—	RMAJORZ
+CODE_SMELL
+z
+java:S3027Ê"FPut single-quotes around 'C' to use the faster "indexOf(char)" method.(ֹÝע8הששע›/H˜	RMAJORZ
+CODE_SMELL
+‰	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ָÿ‎ÿÿÿÿ8הששע›/H™	RMINORZ
+CODE_SMELL
+n	java:S125q"<This block of commented-out lines of code should be removed.(Ùדב¢8½µÿע›/H	RMAJORZ
+CODE_SMELL
+t	java:S125“"<This block of commented-out lines of code should be removed.(üֻ¸ץשÿÿÿÿ8הששע›/H›	RMAJORZ
+CODE_SMELL
+q	java:S106י"9Replace this use of System.out or System.err by a logger.(ם†ױÊרÿÿÿÿ8הששע›/H	RMAJORZ
+CODE_SMELL
+l	java:S106פ"9Replace this use of System.out or System.err by a logger.(ת‏ּס8הששע›/H	RMAJORZ
+CODE_SMELL
+q	java:S106«"9Replace this use of System.out or System.err by a logger.(גׁ‹“תÿÿÿÿ8הששע›/H	RMAJORZ
+CODE_SMELL
+q
+java:S3518ß"<Make sure "countG" can't be zero before doing this division.(¸ָÿ‎ÿÿÿÿ8הששע›/H	RCRITICALZBUG
+l	java:S106"9Replace this use of System.out or System.err by a logger.(יחּ8הששע›/H 	RMAJORZ
+CODE_SMELL
+\
+java:S1128$")Remove this unused import 'java.io.File'.(†׀¥ֵ8הששע›/H¡	RMINORZ
+CODE_SMELL
+z
+java:S3027ֵ"FPut single-quotes around 'G' to use the faster "indexOf(char)" method.(ע¾¨ת8הששע›/H¢	RMAJORZ
+CODE_SMELL
+n	java:S125Þ"<This block of commented-out lines of code should be removed.(ְ´8הששע›/H£	RMAJORZ
+CODE_SMELL
+„	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ד־«ט8הששע›/H₪	RMINORZ
+CODE_SMELL
+}
+java:S3973¶"GUse indentation to denote the code conditionally executed by this "if".(µֻ¶58הששע›/H¥	RCRITICALZ
+CODE_SMELL
+
+java:S1488ß"cImmediately return this expression instead of assigning it to the temporary variable "Finalresult".(¸ָÿ‎ÿÿÿÿ8הששע›/H¦	RMINORZ
+CODE_SMELL
+q	java:S106‘"9Replace this use of System.out or System.err by a logger.(ף§«רÿÿÿÿ8הששע›/H§	RMAJORZ
+CODE_SMELL
+k	java:S106f"9Replace this use of System.out or System.err by a logger.(ד₪†כ8הששע›/H¨	RMAJORZ
+CODE_SMELL
+q	java:S106ו"9Replace this use of System.out or System.err by a logger.(‎׃‹­שÿÿÿÿ8הששע›/H©	RMAJORZ
+CODE_SMELL
+p	java:S106Q"9Replace this use of System.out or System.err by a logger.(װ¼ש׃‎ÿÿÿÿ8הששע›/H×	RMAJORZ
+CODE_SMELL
+
+java:S3027ּ"FPut single-quotes around 'C' to use the faster "indexOf(char)" method.(חף€—ûÿÿÿÿ8הששע›/H«	RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(יחּ8הששע›/H¬	RMAJORZ
+CODE_SMELL
+q	java:S106·"9Replace this use of System.out or System.err by a logger.(üׂבֳ‎ÿÿÿÿ8הששע›/H­	RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H®	RMINORZ
+CODE_SMELL
+q	java:S106¨"9Replace this use of System.out or System.err by a logger.(ױ‰ד¿‎ÿÿÿÿ8הששע›/H¯	RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ע‡¾˜8הששע›/H°	RMAJORZ
+CODE_SMELL
+l	java:S106¾"9Replace this use of System.out or System.err by a logger.(’אִ״8הששע›/H±	RMAJORZ
+CODE_SMELL
+k	java:S106i"9Replace this use of System.out or System.err by a logger.(ײÛי®8הששע›/H²	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+F
+java:S1220""Move this file to a named package.Hç	RMINORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(Á”ô8¨ş”/Hè	RMAJORZ
+CODE_SMELL
+y
+java:S3027"FPut single-quotes around '@' to use the faster "indexOf(char)" method.(İÛŸ«8¨ş”/Hé	RMAJORZ
+CODE_SMELL

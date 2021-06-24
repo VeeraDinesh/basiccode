@@ -1,0 +1,62 @@
+
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(Æ»È¦8øû‘•/HÍRMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(´Ò‚­8øû‘•/HÎRMAJORZ
+CODE_SMELL
+s	java:S125\"<This block of commented-out lines of code should be removed.(­×ğ™ùÿÿÿÿ8øû‘•/HÏRMAJORZ
+CODE_SMELL
+n	java:S125 "<This block of commented-out lines of code should be removed.(Óˆ¦°8©¶×Ìš/HĞRMAJORZ
+CODE_SMELL
+n	java:S125&"<This block of commented-out lines of code should be removed.(«Á¢¯8øû‘•/HÑRMAJORZ
+CODE_SMELL
+m	java:S125L"<This block of commented-out lines of code should be removed.(ÂêéP8øû‘•/HÒRMAJORZ
+CODE_SMELL
+ˆ	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìªâùÿÿÿÿ8øû‘•/HÓRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(¥•ÖÏ8©¶×Ìš/HÔRMAJORZ
+CODE_SMELL
+O
+java:S1643F"Use a StringBuilder instead.(ã‚ó‡8øû‘•/HÕRMINORZ
+CODE_SMELL
+s	java:S1254"<This block of commented-out lines of code should be removed.(üù÷­ûÿÿÿÿ8øû‘•/HÖRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÌòÌÛ8©¶×Ìš/H×RMAJORZ
+CODE_SMELL
+s	java:S1258"<This block of commented-out lines of code should be removed.(ÎßäŞşÿÿÿÿ8øû‘•/HØRMAJORZ
+CODE_SMELL
+ƒ	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡´Ú×8©¶×Ìš/HÙRMINORZ
+CODE_SMELL
+~
+java:S3027"KPut single-quotes around '\"' to use the faster "lastIndexOf(char)" method.(×´ŞØ8©¶×Ìš/HÚRMAJORZ
+CODE_SMELL
+i
+java:S1135:"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8øû‘•/HÛRINFOZ
+CODE_SMELL
+n	java:S125e"<This block of commented-out lines of code should be removed.(ÒÙ¬8øû‘•/HÜRMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûê÷ƒøÿÿÿÿ8øû‘•/HİRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(„ÈøŠÿÿÿÿÿ8øû‘•/HŞRMAJORZ
+CODE_SMELL
+¨
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Á­“¼şÿÿÿÿ8øû‘•/HßRMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á­“¼şÿÿÿÿ8øû‘•/HàRMINORZ
+CODE_SMELL
+
+java:S3027"GPut single-quotes around '\"' to use the faster "indexOf(char)" method.(ëÅ«ûÿÿÿÿ8©¶×Ìš/HáRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HâRMINORZ
+CODE_SMELL
+s	java:S125H"<This block of commented-out lines of code should be removed.(÷ôÿúÿÿÿÿ8øû‘•/HãRMAJORZ
+CODE_SMELL
+j	java:S106c"9Replace this use of System.out or System.err by a logger.(ÚÍF8øû‘•/HäRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¼Ò˜úÿÿÿÿ8øû‘•/HåRMINORZ
+CODE_SMELL
+s	java:S125b"<This block of commented-out lines of code should be removed.(š¦…¥ûÿÿÿÿ8øû‘•/HæRMAJORZ
+CODE_SMELL
+s	java:S125_"<This block of commented-out lines of code should be removed.(¡öÔÚøÿÿÿÿ8øû‘•/HçRMAJORZ
+CODE_SMELL

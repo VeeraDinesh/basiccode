@@ -1,0 +1,35 @@
+
+p	java:S106t"9Replace this use of System.out or System.err by a logger.(ϊυ–αωÿÿÿÿ8«¤³δ“/HΏRMAJORZ
+CODE_SMELL
+Y
+java:S1481"&Remove this unused "p" local variable.(Χ•„€8°„—”/HΐRMINORZ
+CODE_SMELL
+p	java:S106Z"9Replace this use of System.out or System.err by a logger.(½Ϋώεύÿÿÿÿ8«¤³δ“/HΑRMAJORZ
+CODE_SMELL
+p	java:S106_"9Replace this use of System.out or System.err by a logger.(Ύ©ΝΜÿÿÿÿÿ8«¤³δ“/HΒRMAJORZ
+CODE_SMELL
+p	java:S106w"9Replace this use of System.out or System.err by a logger.(ΉΓ‹«ϋÿÿÿÿ8«¤³δ“/HΓRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H°RMINORZ
+CODE_SMELL
+u
+java:S2259T"IA "NullPointerException" could be thrown; "largestFile" is nullable here.( Σ8ήρ—”/HΔRMAJORZBUG
+”
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "avgLength".(έΝΩΐ8ήρ—”/HΕRMINORZ
+CODE_SMELL
+l	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ΰϋυ¤8ήρ—”/HΖRMAJORZ
+CODE_SMELL
+l	java:S106„"9Replace this use of System.out or System.err by a logger.(ύΔΛΡ8ήρ—”/HΗRMAJORZ
+CODE_SMELL
+q	java:S106…"9Replace this use of System.out or System.err by a logger.(τΪ¥³όÿÿÿÿ8ήρ—”/HΘRMAJORZ
+CODE_SMELL
+q	java:S106†"9Replace this use of System.out or System.err by a logger.(ÿ¨Β¨ÿÿÿÿÿ8ήρ—”/HΙRMAJORZ
+CODE_SMELL
+q	java:S106‡"9Replace this use of System.out or System.err by a logger.(έ―ήÿÿÿÿÿ8ήρ—”/HΚRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤”8ήρ—”/HΛRMAJORZ
+CODE_SMELL
+c
+java:S14817"0Remove this unused "largestFile" local variable.(Ωλ8ήρ—”/HΜRMINORZ
+CODE_SMELL
